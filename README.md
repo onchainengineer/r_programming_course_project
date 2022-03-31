@@ -1,3 +1,3 @@
 <h1 align="center">
-  Exploratory Data Anaysis Course Project 01
+  R Programming Course Project
 </h1>
