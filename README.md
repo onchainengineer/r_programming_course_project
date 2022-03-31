@@ -1,2 +1,3 @@
-# r_programming_course_project
-Coursera R Programming Peer-graded Assignment: Course Project
+<h1 align="center">
+  Exploratory Data Anaysis Course Project 01
+</h1>
